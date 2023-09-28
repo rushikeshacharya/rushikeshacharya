@@ -39,8 +39,8 @@ currentlyLearning: ["React", "AZ-204"]
 ```
 ## My Github Stats
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DenverCoder1&theme=dark" />
-<img src="https://streak-stats.demolab.com?user=DenverCoder1&theme=default" />
+<source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rushikeshacharya&theme=dark" />
+<img src="https://streak-stats.demolab.com?user=rushikeshacharya&theme=dark" />
 </picture>
 
 [![Rushikesh GitHub stats](https://github-readme-stats.vercel.app/api?username=rushikeshacharya&theme=dark)](https://github.com/rushikeshacharya/github-readme-stats)
