@@ -16,7 +16,8 @@
 ```javascript
 const Rushikesh = {
   pronouns: "He" | "Him",
-  askMeAbout: ["Blockchain", "Web Dev", "NFTs", "Tech", "Athletics", "Travelling"],
+  code: [Javascript, Typescript, Solidity],
+  askMeAbout: ["Blockchain", "Web3", "DeFi", "Web Dev", "Tech", "Athletics", "Travelling"],
   technologies: {
         blockchain: {
             smartContracts: ["Solidity"],
@@ -29,7 +30,8 @@ const Rushikesh = {
         frontEnd: ["React", "HTML", "CSS"];
         devOps: ["Git", "Azure", "Docker🐳", "K8's"],
         databases: ["Mongo", "MySql"],
-        misc: ["GraphQL", "Shell"]
+        uintTesting: ["Jest", "Mocha"],
+        misc: ["GraphQL", "Shell"],
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentlyLearning: ["React", "AZ-204"]
@@ -44,7 +46,7 @@ const Rushikesh = {
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rushikeshacharya&layout=compact)
 
 ---
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :-)</em>
 
 
 
