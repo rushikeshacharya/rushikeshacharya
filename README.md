@@ -38,8 +38,7 @@ currentlyLearning: ["React", "AZ-204"]
 }
 ```
 ## My Github Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rushikeshacharya)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rushikeshacharya&theme=dark)](https://streak-stats.demolab.com/?user=rushikeshacharya&theme=darks)
 [![Rushikesh GitHub stats](https://github-readme-stats.vercel.app/api?username=rushikeshacharya&theme=dark)](https://github.com/rushikeshacharya/github-readme-stats)
 
 
