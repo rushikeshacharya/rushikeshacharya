@@ -16,7 +16,7 @@ const Rushikesh = {
   pronouns: "He" | "Him",
   code: [Javascript, Typescript, Solidity],
   tools: [React, Node, Jest, Docker, K8s],
-  askMeAbout: ["Blockchain", "Web3", "DeFi", Web Dev", "Tech", "Athletics", "Travelling"],
+  askMeAbout: ["Blockchain", "Web3", "DeFi", "Web Dev", "Tech", "Athletics", "Travelling"],
   technologies: {
         blockchain: {
             smartContracts: ["Solidity"],
