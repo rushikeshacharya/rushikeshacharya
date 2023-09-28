@@ -4,9 +4,11 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/PuneriRushikesh?label=Follow)](https://twitter.com/intent/follow?screen_name=PuneriRushikesh)
 [![Linkedin: acharyarushikesh](https://img.shields.io/badge/-acharyarushikesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/acharyarushikesh/)](https://www.linkedin.com/in/thaianebraga/)
 [![GitHub Rushikesh Acharya](https://img.shields.io/github/followers/rushikeshacharya?label=follow&style=social)](https://github.com/rushikeshacharya)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=rushikeshacharya.repoName)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -14,9 +16,7 @@
 ```javascript
 const Rushikesh = {
   pronouns: "He" | "Him",
-  code: [Javascript, Typescript, Solidity],
-  tools: [React, Node, Jest, Docker, K8s],
-  askMeAbout: ["Blockchain","Web Dev","Tech","Athletics", "Travelling"],
+  askMeAbout: ["Blockchain", "Web Dev", "NFTs", "Tech", "Athletics", "Travelling"],
   technologies: {
         blockchain: {
             smartContracts: ["Solidity"],
@@ -24,20 +24,28 @@ const Rushikesh = {
             tools: ["Hardhat", "Truffle"]
         }
         backEnd: {
-            js: ["Node", "Express"],
+            js: ["Typescript", "Javascript", "Node", "Express"],
         },
-        devOps: ["Azure", "Docker🐳", "K8's"],
+        frontEnd: ["React", "HTML", "CSS"];
+        devOps: ["Git", "Azure", "Docker🐳", "K8's"],
         databases: ["Mongo", "MySql"],
         misc: ["GraphQL", "Shell"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "No Focus point at this time",
- 
+    currentlyLearning: ["React", "AZ-204"]
+}
 ```
+## My Github Stats
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+   <img src="https://github-readme-stats.vercel.app/api?username=rushikeshacharya&show_icons=true&theme=gotham" alt="github stats" width="48%" align="right"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rushikeshacharya&theme=dark" width="48%" >
+
+## Top Languages
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rushikeshacharya&layout=compact)
 
 ---
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
 
 
 
