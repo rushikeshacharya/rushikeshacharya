@@ -21,26 +21,24 @@
 
 ```javascript
 const Rushikesh = {
-pronouns: "He" | "Him",
-code: [Javascript, Typescript, Solidity],
-askMeAbout: ["Blockchain", "Web3", "DeFi", "Web Dev", "Tech", "Athletics", "Travelling"],
-technologies: {
-    blockchain: {
-        smartContracts: ["Solidity"],
-        frameworks: ["Ethereum", "Quorum", "Hyperledger Fabric"],
-        tools: ["Hardhat", "Truffle"]
-    }
-    backEnd: {
-        js: ["Typescript", "Javascript", "Node", "Express"],
+"pronouns": ["He", "Him"],
+"code": ["Javascript", "Typescript", "Solidity"],
+"askMeAbout": ["Blockchain", "Web3", "DeFi", "Web Dev", "Tech", "Athletics", "Travelling"],
+"technologies": {
+    "blockchain": {
+        "smartContracts": ["Solidity"],
+        "frameworks": ["Ethereum", "Quorum", "Hyperledger Fabric"],
+        "tools": ["Hardhat", "Truffle"]
     },
-    frontEnd: ["React", "HTML", "CSS"];
-    devOps: ["Git", "Azure", "Docker🐳", "K8's"],
-    databases: ["Mongo", "MySql"],
-    uintTesting: ["Jest", "Mocha"],
-    misc: ["GraphQL", "Shell"],
+    "backEnd": ["Typescript", "Javascript", "Node", "Express"],
+    "frontEnd": ["React", "HTML", "CSS"],
+    "devOps": ["Git", "Azure", "Docker🐳", "K8's"],
+    "databases": ["Mongo", "MySql"],
+    "uintTesting": ["Jest", "Mocha"],
+    "misc": ["GraphQL", "Shell"],
 },
-architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-currentlyLearning: ["React", "AZ-204"]
+"architecture": ["Serverless Architecture", "Progressive Web App", "Single Page App"],
+"currentlyLearning": ["React", "AZ-204"]
 }
 ```
 ## My Github Stats
