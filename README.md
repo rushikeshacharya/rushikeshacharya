@@ -8,7 +8,7 @@
 <p></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/PuneriRushikesh?label=Follow)](https://twitter.com/intent/follow?screen_name=PuneriRushikesh)
-[![Linkedin: acharyarushikesh](https://img.shields.io/badge/-acharyarushikesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/acharyarushikesh/)](https://www.linkedin.com/in/thaianebraga/)
+[![Linkedin: acharyarushikesh](https://img.shields.io/badge/-acharyarushikesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/acharyarushikesh/)](https://www.linkedin.com/in/acharyarushikesh/)
 [![GitHub Rushikesh Acharya](https://img.shields.io/github/followers/rushikeshacharya?label=follow&style=social)](https://github.com/rushikeshacharya)
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=rushikeshacharya.repoName)
 
