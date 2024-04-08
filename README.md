@@ -27,7 +27,7 @@ const Rushikesh = {
 "technologies": {
     "blockchain": {
         "smartContracts": ["Solidity"],
-        "frameworks": ["Ethereum", "Quorum", "Hyperledger Fabric"],
+        "frameworks": ["Ethereum", "Quorum", "Hyperledger Besu", "Hyperledger Fabric"],
         "tools": ["Hardhat", "Truffle"]
     },
     "backEnd": ["Typescript", "Javascript", "Node", "Express"],
