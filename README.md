@@ -30,7 +30,7 @@ const Rushikesh = {
         "frameworks": ["Ethereum", "Quorum", "Hyperledger Besu", "Hyperledger Fabric"],
         "tools": ["Hardhat", "Truffle"]
     },
-    "backEnd": ["Typescript", "Javascript", "Node", "Express"],
+    "backEnd": ["Typescript", "Javascript", "Node", "Express", "NextJS"],
     "frontEnd": ["React", "HTML", "CSS"],
     "devOps": ["Git", "Azure", "Docker🐳", "K8's"],
     "databases": ["Mongo", "MySql"],
