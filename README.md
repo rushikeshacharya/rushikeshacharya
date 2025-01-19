@@ -29,7 +29,7 @@
 const Rushikesh = {
 "pronouns": ["He", "Him"],
 "code": ["Javascript", "Typescript", "Solidity"],
-"askMeAbout": ["Blockchain", "Web3", "DeFi", "Web Dev", "Tech", "Athletics", "Travelling"],
+"askMeAbout": ["Blockchain", "Web3", "DeFi", "Web Dev", "Tech", "Athletics", "Badminton", "Swimming", "Travelling"],
 "technologies": {
     "blockchain": {
         "smartContracts": ["Solidity"],
@@ -44,7 +44,7 @@ const Rushikesh = {
     "misc": ["GraphQL", "Shell"],
 },
 "architecture": ["Serverless Architecture", "Progressive Web App", "Single Page App"],
-"currentlyLearning": ["React", "AZ-204"]
+"currentlyLearning": []
 }
 ```
 ## My Github Stats
