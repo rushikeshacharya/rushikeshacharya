@@ -39,12 +39,12 @@ const Rushikesh = {
     "backEnd": ["Typescript", "Javascript", "Node", "Express", "NextJS"],
     "frontEnd": ["React", "HTML", "CSS"],
     "devOps": ["Git", "Azure", "Docker🐳", "K8's"],
-    "databases": ["Mongo", "MySql"],
+    "databases": ["Mongo", "MySql", "PostgreSQL"],
     "uintTesting": ["Jest", "Mocha"],
     "misc": ["GraphQL", "Shell"],
 },
-"architecture": ["Serverless Architecture", "Progressive Web App", "Single Page App"],
-"currentlyLearning": []
+"architecture": ["Microservices", "Progressive Web App", "Single Page App"],
+"currentlyLearning": [System Design]
 }
 ```
 ## My Github Stats
