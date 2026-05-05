@@ -29,22 +29,23 @@
 const Rushikesh = {
 "pronouns": ["He", "Him"],
 "code": ["Javascript", "Typescript", "Solidity"],
-"askMeAbout": ["Blockchain", "Web3", "DeFi", "Web Dev", "Tech", "Athletics", "Badminton", "Swimming", "Travelling"],
+"askMeAbout": ["Web Dev", "System Design", "Blockchain", "Web3", "DeFi", "Tech", "Athletics", "Badminton", "TT", "Swimming", "Travelling"],
 "technologies": {
     "blockchain": {
         "smartContracts": ["Solidity"],
         "frameworks": ["Ethereum", "Quorum", "Hyperledger Besu", "Hyperledger Fabric"],
         "tools": ["Hardhat", "Truffle"]
     },
-    "backEnd": ["Typescript", "Javascript", "Node", "Express", "NextJS"],
-    "frontEnd": ["React", "HTML", "CSS"],
-    "devOps": ["Git", "Azure", "Docker🐳", "K8's"],
+    "backEnd": ["Typescript", "Javascript", "Node", "Express"],
+    "frontEnd": ["React"],
+    "devOps": ["Git", "Docker🐳", "K8's"],
+    "cloud" : ["Azure", "AWS"],
     "databases": ["Mongo", "MySql", "PostgreSQL"],
     "uintTesting": ["Jest", "Mocha"],
     "misc": ["GraphQL", "Shell"],
 },
 "architecture": ["Microservices", "Progressive Web App", "Single Page App"],
-"currentlyLearning": [System Design]
+"currentlyLearning": []
 }
 ```
 ## My Github Stats
