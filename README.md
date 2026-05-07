@@ -1,6 +1,6 @@
 <h2>  Namaste🙏🏻, I'm Rushikesh Dinesh Acharya! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="30"></h2>
 <img align=right src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
-<p><em>Senior Software Engineer at <a href="https://www.accenture.com/in-en">Accenture
+<p><em>Fullstack Software Engineer 2 at <a href="https://www.infocusp.com/">Infocusp Innovations
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 <em></em>
@@ -37,7 +37,7 @@ const Rushikesh = {
         "tools": ["Hardhat", "Truffle"]
     },
     "backEnd": ["Typescript", "Javascript", "Node", "Express"],
-    "frontEnd": ["React"],
+    "frontEnd": ["React", "Storybook"],
     "devOps": ["Git", "Docker🐳", "K8's"],
     "cloud" : ["Azure", "AWS"],
     "databases": ["Mongo", "MySql", "PostgreSQL"],
